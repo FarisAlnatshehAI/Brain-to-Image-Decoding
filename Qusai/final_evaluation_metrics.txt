@@ -1,0 +1,6 @@
+Top-1 Accuracy (V1/V2): 5.50% / 3.00%
+Top-5 Accuracy (V1/V2): 12.50% / 16.50%
+Top-10 Accuracy (V1/V2): 24.00% / 27.00%
+CLIP-Score: 0.5441 +- 0.0883
+SSIM: 0.2495 +- 0.1355
+PixCorr: 0.0807 +- 0.1761
